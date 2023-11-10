@@ -1,0 +1,8 @@
+SELECT
+    VIDEO_CODE,
+    TITLE,
+    DIRECTOR
+FROM
+    VIDEOS
+WHERE
+    TYPE = 'B';
